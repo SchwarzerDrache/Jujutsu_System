@@ -1,5 +1,19 @@
 body{
-    background-image: url(Jujutsu.jpg);
+  
     width: 100%;
     height: 100%;
+}
+
+#Divi{
+    width: 100px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+#menu{
+    background-color: blanchedalmond;
+    float:left;
 }
