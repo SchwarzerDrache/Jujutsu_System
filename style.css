@@ -14,6 +14,9 @@ body{
 }
 
 #menu{
-    background-color: blanchedalmond;
-    float:left;
+    border: solid 1px rgb(232, 235, 84);
+    background-color: rgb(243, 235, 190);
+    width: 10%;
+    margin: 1px;
+    height: 200px;
 }
